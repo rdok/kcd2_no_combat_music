@@ -1,10 +1,10 @@
 {
   "repository": {
     "type": "git",
-    "url": "https://github.com/rdok/kcd2_no_battle_music"
+    "url": "https://github.com/rdok/kcd2_no_combat_music"
   },
   "author": "Rizart Dokollari",
-  "name": "kcd2_no_battle_music",
+  "name": "kcd2_no_combat_music",
   "license": "GPL-3.0",
   "devDependencies": {
     "7z-bin": "Nexus-Mods/7z-bin",

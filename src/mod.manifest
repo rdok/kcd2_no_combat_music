@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="us-ascii"?>
 <kcd_mod>
     <info>
-        <name>no_battle_music</name>
-        <modid>no_battle_music</modid>
+        <name>no_combat_music</name>
+        <modid>no_combat_music</modid>
         <description>Disable battle music.</description>
         <author>Rizarttt</author>
         <version>1.0.0</version>
