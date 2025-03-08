@@ -129,6 +129,7 @@
     <ATLRtpc atl_name="sqc_ptag_event_cleanup_done"><SqcCtrl fmod_id="11998" fmod_name="@event_cleanup_done"/></ATLRtpc>
     <ATLRtpc atl_name="sqc_ptag_event_cutscene_ahead"><SqcCtrl fmod_id="11999" fmod_name="@event_cutscene_ahead"/></ATLRtpc>
 
+<!--    >>>>>>>>>>>> START >>>>>>>>>>>>> Disabled by "No Combat Music" https://www.nexusmods.com/kingdomcomedeliverance2/mods/1216 mod-->
 <!--    <ATLRtpc atl_name="music_skirmish_armed"><SqcCtrl fmod_id="12000" fmod_name="skirmish_armed"/></ATLRtpc>-->
 <!--    <ATLRtpc atl_name="music_skirmish_phase"><SqcCtrl fmod_id="12001" fmod_name="skirmish_phase"/></ATLRtpc>-->
 <!--    <ATLRtpc atl_name="music_skirmish_predominance"><SqcCtrl fmod_id="12003" fmod_name="skirmish_predominance"/></ATLRtpc>-->
@@ -145,6 +146,7 @@
 <!--    <ATLRtpc atl_name="sqc_ptag_battle_1"><SqcCtrl fmod_id="11931" fmod_name="#battle_1"/></ATLRtpc>-->
 <!--    <ATLRtpc atl_name="sqc_ptag_battle_2"><SqcCtrl fmod_id="11932" fmod_name="#battle_2"/></ATLRtpc>-->
 <!--    <ATLRtpc atl_name="sqc_ptag_battle_3"><SqcCtrl fmod_id="11933" fmod_name="#battle_3"/></ATLRtpc>-->
+<!--    >>>>>>>>>>>> END >>>>>>>>>>>>> Disabled by "No Combat Music" mod-->
 
     <ATLRtpc atl_name="sqc_ptag_racing"><SqcCtrl fmod_id="11926" fmod_name="#racing"/></ATLRtpc>
 
