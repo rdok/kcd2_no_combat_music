@@ -1,0 +1,233 @@
+<ATLConfig>
+  <AudioRTPCs>
+    <!-- <ATLRtpc atl_name="sqc_ptag_trosecko"><SqcCtrl fmod_id="11001" fmod_name="#trosecko"/></ATLRtpc> -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_kutnohorsko"><SqcCtrl fmod_id="11002" fmod_name="#kutnohorsko"/></ATLRtpc> -->
+    <ATLRtpc atl_name="sqc_ptag_loc_kutnohorsko"><SqcCtrl fmod_id="11003" fmod_name="#loc_kutnohorsko"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_loc_trosecko"><SqcCtrl fmod_id="11004" fmod_name="#loc_trosecko"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_godwin"><SqcCtrl fmod_id="11010" fmod_name="#godwin"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_field"><SqcCtrl fmod_id="11101" fmod_name="#field"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_forest"><SqcCtrl fmod_id="11102" fmod_name="#forest"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_forest_dark"><SqcCtrl fmod_id="11103" fmod_name="#forest_dark"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pond"><SqcCtrl fmod_id="11104" fmod_name="#pond"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_swamp"><SqcCtrl fmod_id="11105" fmod_name="#swamp"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_river"><SqcCtrl fmod_id="11106" fmod_name="#river"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_underground"><SqcCtrl fmod_id="11107" fmod_name="#underground"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_underground_tinnitus"><SqcCtrl fmod_id="11108" fmod_name="#underground_tinnitus"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_underground_taras"><SqcCtrl fmod_id="11109" fmod_name="#underground_taras"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_dawn"><SqcCtrl fmod_id="11150" fmod_name="#dawn"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_night"><SqcCtrl fmod_id="11151" fmod_name="#night"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_sunset"><SqcCtrl fmod_id="11152" fmod_name="#sunset"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_fog"><SqcCtrl fmod_id="11153" fmod_name="#fog"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_rain"><SqcCtrl fmod_id="11154" fmod_name="#rain"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_storm"><SqcCtrl fmod_id="11155" fmod_name="#storm"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_village"><SqcCtrl fmod_id="11201" fmod_name="#village"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_camp"><SqcCtrl fmod_id="11202" fmod_name="#camp"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_troskovice"><SqcCtrl fmod_id="11203" fmod_name="#troskovice"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_semin_ves"><SqcCtrl fmod_id="11204" fmod_name="#semin_ves"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tachov"><SqcCtrl fmod_id="11205" fmod_name="#tachov"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_zelejov"><SqcCtrl fmod_id="11206" fmod_name="#zelejov"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_apolena"><SqcCtrl fmod_id="11207" fmod_name="#apolena"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_gypsy_camp"><SqcCtrl fmod_id="11208" fmod_name="#gypsy_camp"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_sigis_camp"><SqcCtrl fmod_id="11209" fmod_name="#sigis_camp"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_suchdol"><SqcCtrl fmod_id="11210" fmod_name="#suchdol"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_ratiborice"><SqcCtrl fmod_id="11211" fmod_name="#ratiborice"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_miskovice"><SqcCtrl fmod_id="11212" fmod_name="#miskovice"/></ATLRtpc> --> <!-- not unique -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_cervene_pecky"><SqcCtrl fmod_id="11213" fmod_name="#cervene_pecky"/></ATLRtpc> --> <!-- not unique -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_vrchlicko"><SqcCtrl fmod_id="11214" fmod_name="#vrchlicko"/></ATLRtpc> -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_grunta"><SqcCtrl fmod_id="11215" fmod_name="#grunta"/></ATLRtpc> --> <!-- not unique -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_horany"><SqcCtrl fmod_id="11216" fmod_name="#horany"/></ATLRtpc> --> <!-- not unique -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_bojiste"><SqcCtrl fmod_id="11217" fmod_name="#bojiste"/></ATLRtpc> -->
+    <ATLRtpc atl_name="sqc_ptag_kutna_hora"><SqcCtrl fmod_id="11218" fmod_name="#kutna_hora"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_burnt_village"><SqcCtrl fmod_id="11219" fmod_name="#burnt_village"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_malesov"><SqcCtrl fmod_id="11221" fmod_name="#malesov"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_sigis_inner"><SqcCtrl fmod_id="11301" fmod_name="#sigis_inner"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_underground"><SqcCtrl fmod_id="11303" fmod_name="#kh_underground"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_center"><SqcCtrl fmod_id="11304" fmod_name="#kh_center"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_jewish"><SqcCtrl fmod_id="11305" fmod_name="#kh_jewish"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_italian_court"><SqcCtrl fmod_id="11306" fmod_name="#kh_italian_court"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_kostelni"><SqcCtrl fmod_id="11307" fmod_name="#kh_kostelni"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_east_side"><SqcCtrl fmod_id="11308" fmod_name="#kh_east_side"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_konsky_trh"><SqcCtrl fmod_id="11309" fmod_name="#kh_konsky_trh"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_pach"><SqcCtrl fmod_id="11310" fmod_name="#kh_pach"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_barborsky"><SqcCtrl fmod_id="11311" fmod_name="#kh_barborsky"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_kh_night"><SqcCtrl fmod_id="11312" fmod_name="#kh_night"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_hrad_trosky"><SqcCtrl fmod_id="11401" fmod_name="#hrad_trosky"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_semin"><SqcCtrl fmod_id="11402" fmod_name="#tvrz_semin"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_nebakov"><SqcCtrl fmod_id="11403" fmod_name="#tvrz_nebakov"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_suchdol"><SqcCtrl fmod_id="11404" fmod_name="#tvrz_suchdol"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_ratbor"><SqcCtrl fmod_id="11405" fmod_name="#tvrz_ratbor"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_malesov"><SqcCtrl fmod_id="11406" fmod_name="#tvrz_malesov"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_vlassky_dvur"><SqcCtrl fmod_id="11407" fmod_name="#vlassky_dvur"/></ATLRtpc> -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_tvrz_cervene_pecky"><SqcCtrl fmod_id="11408" fmod_name="#tvrz_cervene_pecky"/></ATLRtpc> -->
+
+    <ATLRtpc atl_name="sqc_ptag_hrad_trosky_indoor"><SqcCtrl fmod_id="11501" fmod_name="#hrad_trosky_indoor"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_semin_indoor"><SqcCtrl fmod_id="11502" fmod_name="#tvrz_semin_indoor"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_nebakov_indoor"><SqcCtrl fmod_id="11503" fmod_name="#tvrz_nebakov_indoor"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_suchdol_indoor"><SqcCtrl fmod_id="11504" fmod_name="#tvrz_suchdol_indoor"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_ratbor_indoor"><SqcCtrl fmod_id="11505" fmod_name="#tvrz_ratbor_indoor"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_tvrz_malesov_indoor"><SqcCtrl fmod_id="11506" fmod_name="#tvrz_malesov_indoor"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_vlassky_dvur_indoor"><SqcCtrl fmod_id="11507" fmod_name="#vlassky_dvur_indoor"/></ATLRtpc> -->
+
+    <ATLRtpc atl_name="sqc_ptag_hub"><SqcCtrl fmod_id="11601" fmod_name="#hub"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pub_posh_breakdown"><SqcCtrl fmod_id="11600" fmod_name="#pub_posh_breakdown"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pub_posh"><SqcCtrl fmod_id="11602" fmod_name="#pub_posh"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pub_middle"><SqcCtrl fmod_id="11603" fmod_name="#pub_middle"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pub_poor"><SqcCtrl fmod_id="11604" fmod_name="#pub_poor"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_loc_pub_continue"><SqcCtrl fmod_id="11622" fmod_name="#loc_pub_continue"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_bathhouse"><SqcCtrl fmod_id="11605" fmod_name="#bathhouse"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_brothel"><SqcCtrl fmod_id="11606" fmod_name="#brothel"/></ATLRtpc> N/A -->
+    <!-- <ATLRtpc atl_name="sqc_ptag_industrial"><SqcCtrl fmod_id="11607" fmod_name="#industrial"/></ATLRtpc> -->
+    <ATLRtpc atl_name="sqc_ptag_camp_bandits"><SqcCtrl fmod_id="11608" fmod_name="#camp_bandits"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_camp_workers"><SqcCtrl fmod_id="11609" fmod_name="#camp_workers"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_sacred"><SqcCtrl fmod_id="11610" fmod_name="#sacred"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_vineyard"><SqcCtrl fmod_id="11611" fmod_name="#vineyard"/></ATLRtpc> -->
+    <ATLRtpc atl_name="sqc_ptag_mill"><SqcCtrl fmod_id="11612" fmod_name="#mill"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_jail"><SqcCtrl fmod_id="11613" fmod_name="#jail"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_solitary"><SqcCtrl fmod_id="11614" fmod_name="#solitary"/></ATLRtpc> The same as "Isolated?" -->
+    <ATLRtpc atl_name="sqc_ptag_pub_u_krale_salamouna"><SqcCtrl fmod_id="11618" fmod_name="#pub_u_krale_salamouna"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_certovka"><SqcCtrl fmod_id="11620" fmod_name="#certovka"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_arena"><SqcCtrl fmod_id="11621" fmod_name="#arena"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_illness"><SqcCtrl fmod_id="11630" fmod_name="#illness"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_gypsy_magic"><SqcCtrl fmod_id="11631" fmod_name="#gypsy_magic"/></ATLRtpc> -->
+    <ATLRtpc atl_name="sqc_ptag_shady"><SqcCtrl fmod_id="11633" fmod_name="#shady"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_negative_outcome"><SqcCtrl fmod_id="11635" fmod_name="#negative_outcome"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_comic_relief"><SqcCtrl fmod_id="11636" fmod_name="#comic_relief"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_comic_relief_cinel"><SqcCtrl fmod_id="11637" fmod_name="#comic_relief_cinel"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_mood_honor_high"><SqcCtrl fmod_id="11638" fmod_name="#mood_honor_high"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_mood_honor_low"><SqcCtrl fmod_id="11639" fmod_name="#mood_honor_low"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_ossuary"><SqcCtrl fmod_id="11666" fmod_name="#ossuary"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_elevator"><SqcCtrl fmod_id="11901" fmod_name="#elevator"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_silence_lazy"><SqcCtrl fmod_id="11902" fmod_name="#silence_lazy"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_silence"><SqcCtrl fmod_id="11903" fmod_name="#silence"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_silence_asap"><SqcCtrl fmod_id="11904" fmod_name="#silence_asap"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_skiptime"><SqcCtrl fmod_id="11905" fmod_name="#skiptime"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_timeout_music"><SqcCtrl fmod_id="11906" fmod_name="#timeout_music"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_timeout_music_last_30_sec"><SqcCtrl fmod_id="11907" fmod_name="#timeout_music_last_30_sec"/></ATLRtpc>
+    <!-- <ATLRtpc atl_name="sqc_ptag_alchemy"><SqcCtrl fmod_id="11906" fmod_name="#alchemy"/></ATLRtpc> N/A -->
+    <ATLRtpc atl_name="sqc_ptag_dice"><SqcCtrl fmod_id="11908" fmod_name="#dice"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_menu"><SqcCtrl fmod_id="11909" fmod_name="#menu"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_menu_title"><SqcCtrl fmod_id="11910" fmod_name="#menu_title"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_trespass_low"><SqcCtrl fmod_id="11950" fmod_name="#trespass_low"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_trespass_high"><SqcCtrl fmod_id="11951" fmod_name="#trespass_high"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_crime_negligible"><SqcCtrl fmod_id="11952" fmod_name="#crime_negligible"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_crime_lowest"><SqcCtrl fmod_id="11953" fmod_name="#crime_lowest"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_crime_low"><SqcCtrl fmod_id="11954" fmod_name="#crime_low"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_crime_high"><SqcCtrl fmod_id="11955" fmod_name="#crime_high"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_trespass_zelejov"><SqcCtrl fmod_id="11956" fmod_name="#trespass_zelejov"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_trespass_low_cinel"><SqcCtrl fmod_id="11957" fmod_name="#trespass_low_cinel"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_event_cleanup_done"><SqcCtrl fmod_id="11998" fmod_name="@event_cleanup_done"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_cutscene_ahead"><SqcCtrl fmod_id="11999" fmod_name="@event_cutscene_ahead"/></ATLRtpc>
+
+    <ATLRtpc atl_name="music_skirmish_armed"><SqcCtrl fmod_id="12000" fmod_name="skirmish_armed"/></ATLRtpc>
+    <ATLRtpc atl_name="music_skirmish_phase"><SqcCtrl fmod_id="12001" fmod_name="skirmish_phase"/></ATLRtpc>
+    <ATLRtpc atl_name="music_skirmish_predominance"><SqcCtrl fmod_id="12003" fmod_name="skirmish_predominance"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_skirmish"><SqcCtrl fmod_id="11920" fmod_name="#skirmish"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_skirmish_unjust"><SqcCtrl fmod_id="11921" fmod_name="#skirmish_unjust"/></ATLRtpc> <!-- might play silence -->
+    <ATLRtpc atl_name="sqc_ptag_skirmish_friendly"><SqcCtrl fmod_id="11922" fmod_name="#skirmish_friendly"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_skirmish_friendly_preempted"><SqcCtrl fmod_id="11923" fmod_name="#skirmish_friendly_preempted"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_fistfight_instead_of_skirmish"><SqcCtrl fmod_id="11924" fmod_name="#fistfight_instead_of_skirmish"/></ATLRtpc> <!-- adding state -->
+    <ATLRtpc atl_name="sqc_ptag_battle_instead_of_skirmish"><SqcCtrl fmod_id="11925" fmod_name="#battle_instead_of_skirmish"/></ATLRtpc> <!-- adding state -->
+    <ATLRtpc atl_name="sqc_ptag_skirmish_instead_of_battle"><SqcCtrl fmod_id="11930" fmod_name="#skirmish_instead_of_battle"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_battle_1"><SqcCtrl fmod_id="11931" fmod_name="#battle_1"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_battle_2"><SqcCtrl fmod_id="11932" fmod_name="#battle_2"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_battle_3"><SqcCtrl fmod_id="11933" fmod_name="#battle_3"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_racing"><SqcCtrl fmod_id="11926" fmod_name="#racing"/></ATLRtpc>
+
+    <ATLRtpc atl_name="music_player_health"><SqcCtrl fmod_id="12004" fmod_name="player_health"/></ATLRtpc>
+    <ATLRtpc atl_name="music_player_velocity"><SqcCtrl fmod_id="12005" fmod_name="player_velocity"/></ATLRtpc>
+    <ATLRtpc atl_name="music_time_of_day"><SqcCtrl fmod_id="12006" fmod_name="time_of_day"/></ATLRtpc>
+    <ATLRtpc atl_name="music_time_constraint_remaining"><SqcCtrl fmod_id="12007" fmod_name="time_constraint_remaining"/></ATLRtpc>
+
+    <!-- <ATLRtpc atl_name="sqc_ptag_marika_wailing"><SqcCtrl fmod_id="12200" fmod_name="#marika_wailing"/></ATLRtpc> -->
+    <ATLRtpc atl_name="sqc_ptag_moral_hangover"><SqcCtrl fmod_id="12201" fmod_name="#moral_hangover"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_wedding_music_in_pubs"><SqcCtrl fmod_id="13023" fmod_name="#wedding_music_in_pubs"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_m42_more_tense"><SqcCtrl fmod_id="13007" fmod_name="#m42_more_tense"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m02_gloomy_day"><SqcCtrl fmod_id="13009" fmod_name="#m02_gloomy_day"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_m02_flashback"><SqcCtrl fmod_id="13010" fmod_name="@event_m02_flashback"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m45_legate_chase"><SqcCtrl fmod_id="13011" fmod_name="#m45_legate_chase"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_u53_writing"><SqcCtrl fmod_id="13021" fmod_name="#u53_writing"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_u53_negative_outcome"><SqcCtrl fmod_id="13022" fmod_name="#u53_negative_outcome"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_u53_comic_relief"><SqcCtrl fmod_id="13024" fmod_name="#u53_comic_relief"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_u53_pub_posh"><SqcCtrl fmod_id="13025" fmod_name="#u53_pub_posh"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_u53_pub_middle"><SqcCtrl fmod_id="13026" fmod_name="#u53_pub_middle"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_u53_sacred"><SqcCtrl fmod_id="13027" fmod_name="#u53_sacred"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_s41_cleaning"><SqcCtrl fmod_id="13033" fmod_name="#s41_cleaning"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m46_council_in_session"><SqcCtrl fmod_id="13035" fmod_name="#m46_council_in_session"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m46_one_pub_middle_track"><SqcCtrl fmod_id="13036" fmod_name="#m46_one_pub_middle_track"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m31_arrival_suchdol"><SqcCtrl fmod_id="13037" fmod_name="#m31_arrival_suchdol"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m12_torture"><SqcCtrl fmod_id="13038" fmod_name="#m12_torture"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_s25_gejza_burial"><SqcCtrl fmod_id="13039" fmod_name="#s25_gejza_burial"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m44a_after_cuman_murder"><SqcCtrl fmod_id="13040" fmod_name="#m44a_after_cuman_murder"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m44a_body_examination"><SqcCtrl fmod_id="13041" fmod_name="#m44a_body_examination"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_m44b_polylog"><SqcCtrl fmod_id="13042" fmod_name="#m44b_polylog"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_podriz_1"><SqcCtrl fmod_id="13097" fmod_name="#podriz_1"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_podriz_2"><SqcCtrl fmod_id="13098" fmod_name="#podriz_2"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_podriz_3"><SqcCtrl fmod_id="13099" fmod_name="#podriz_3"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_gregorian"><SqcCtrl fmod_id="13201" fmod_name="#gregorian"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_gregorian_humming"><SqcCtrl fmod_id="13202" fmod_name="#gregorian_humming"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pilgrimage_hail_mary"><SqcCtrl fmod_id="13203" fmod_name="#pilgrimage_hail_mary"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pilgrimage_lords_prayer"><SqcCtrl fmod_id="13204" fmod_name="#pilgrimage_lords_prayer"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pilgrimage_credo"><SqcCtrl fmod_id="13205" fmod_name="#pilgrimage_credo"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pilgrimage_angelus"><SqcCtrl fmod_id="13206" fmod_name="#pilgrimage_angelus"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_pilgrimage_spooky"><SqcCtrl fmod_id="13207" fmod_name="#pilgrimage_spooky"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_pogrom"><SqcCtrl fmod_id="13220" fmod_name="#pogrom"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_after_pogrom"><SqcCtrl fmod_id="13221" fmod_name="#after_pogrom"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_zdeptana"><SqcCtrl fmod_id="13222" fmod_name="#zdeptana"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_catharsis"><SqcCtrl fmod_id="13223" fmod_name="#catharsis"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_brzm"><SqcCtrl fmod_id="13224" fmod_name="#brzm"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_grave"><SqcCtrl fmod_id="13225" fmod_name="#grave"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_lynch"><SqcCtrl fmod_id="13226" fmod_name="#lynch"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_here_we_stand"><SqcCtrl fmod_id="13227" fmod_name="#here_we_stand"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_siege_night_idle"><SqcCtrl fmod_id="13228" fmod_name="#siege_night_idle"/></ATLRtpc>
+
+    <!-- <ATLRtpc atl_name="sqc_ptag_missing"><SqcCtrl fmod_id="13999" fmod_name="#missing"/></ATLRtpc> -->
+    <ATLRtpc atl_name="sqc_ptag_unused"><SqcCtrl fmod_id="13998" fmod_name="#unused"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_herbalist"><SqcCtrl fmod_id="11615" fmod_name="#herbalist"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_spooky"><SqcCtrl fmod_id="11632" fmod_name="#spooky"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_magical"><SqcCtrl fmod_id="11634" fmod_name="#magical"/></ATLRtpc>
+
+    <ATLRtpc atl_name="sqc_ptag_event_s41_4_cleaning_done"><SqcCtrl fmod_id="14701" fmod_name="#event_s41_4_cleaning_done"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_s41_3_naked_people_removed"><SqcCtrl fmod_id="14702" fmod_name="#event_s41_3_naked_people_removed"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_s41_2_floor_cleaned"><SqcCtrl fmod_id="14703" fmod_name="#event_s41_2_floor_cleaned"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_s41_1_tankards_collected"><SqcCtrl fmod_id="14704" fmod_name="#event_s41_1_tankards_collected"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_m37a_ratbor_siege_with_bohuta_begins"><SqcCtrl fmod_id="14705" fmod_name="#event_m37a_ratbor_siege_with_bohuta_begins"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_m07_nebakov_found_something"><SqcCtrl fmod_id="14706" fmod_name="#event_m07_nebakov_found_something"/></ATLRtpc>
+    <ATLRtpc atl_name="sqc_ptag_event_game_over"><SqcCtrl fmod_id="14707" fmod_name="#event_game_over"/></ATLRtpc>
+
+  </AudioRTPCs>
+
+  <AudioTriggers>
+    <ATLTrigger atl_name="music_dice_game_start"></ATLTrigger>
+    <ATLTrigger atl_name="music_dice_game_loss"><SqcVariable fmod_id="13900" fmod_name="@dice_end:loss"/></ATLTrigger>
+    <ATLTrigger atl_name="music_dice_game_win"><SqcVariable fmod_id="13901" fmod_name="@dice_end:win"/></ATLTrigger>
+    <ATLTrigger atl_name="music_dice_game_abandon"><SqcVariable fmod_id="13902" fmod_name="@dice_end:end"/></ATLTrigger>
+    <ATLTrigger atl_name="music_dice_game_success"><SqcVariable fmod_id="13903" fmod_name="@dice_phase:success"/></ATLTrigger>
+    <ATLTrigger atl_name="music_dice_game_bust"><SqcVariable fmod_id="13904" fmod_name="@dice_phase:bust"/></ATLTrigger>
+    <ATLTrigger atl_name="music_dice_game_opponent"><SqcVariable fmod_id="13905" fmod_name="@dice_side:opponent"/></ATLTrigger>
+    <ATLTrigger atl_name="music_dice_game_player"><SqcVariable fmod_id="13906" fmod_name="@dice_side:player"/></ATLTrigger>
+  </AudioTriggers>
+
+</ATLConfig>
