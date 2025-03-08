@@ -1,0 +1,13 @@
+# No Battle Music
+
+[![nexus-mods-page](https://img.shields.io/badge/Mod-No%20Combat%20Music-bf4848?style=flat-square–=nexusmods)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1216) [![github-repository](https://img.shields.io/badge/Open-Source-2ea44f?style=flat-square&logo=github)](https://github.com/rdok/kcd2_no_battle_music)
+
+Disables battle (combat) music in Kingdom Come: Deliverance 2.
+
+Install using Vortex.
+
+---
+
+### Compatability
+
+Incompatible with any other mod that modifies `Data/Libs/GameAudio/music_sqc.xml`.
