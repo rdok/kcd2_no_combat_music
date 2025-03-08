@@ -129,22 +129,22 @@
     <ATLRtpc atl_name="sqc_ptag_event_cleanup_done"><SqcCtrl fmod_id="11998" fmod_name="@event_cleanup_done"/></ATLRtpc>
     <ATLRtpc atl_name="sqc_ptag_event_cutscene_ahead"><SqcCtrl fmod_id="11999" fmod_name="@event_cutscene_ahead"/></ATLRtpc>
 
-    <ATLRtpc atl_name="music_skirmish_armed"><SqcCtrl fmod_id="12000" fmod_name="skirmish_armed"/></ATLRtpc>
-    <ATLRtpc atl_name="music_skirmish_phase"><SqcCtrl fmod_id="12001" fmod_name="skirmish_phase"/></ATLRtpc>
-    <ATLRtpc atl_name="music_skirmish_predominance"><SqcCtrl fmod_id="12003" fmod_name="skirmish_predominance"/></ATLRtpc>
+<!--    <ATLRtpc atl_name="music_skirmish_armed"><SqcCtrl fmod_id="12000" fmod_name="skirmish_armed"/></ATLRtpc>-->
+<!--    <ATLRtpc atl_name="music_skirmish_phase"><SqcCtrl fmod_id="12001" fmod_name="skirmish_phase"/></ATLRtpc>-->
+<!--    <ATLRtpc atl_name="music_skirmish_predominance"><SqcCtrl fmod_id="12003" fmod_name="skirmish_predominance"/></ATLRtpc>-->
 
-    <ATLRtpc atl_name="sqc_ptag_skirmish"><SqcCtrl fmod_id="11920" fmod_name="#skirmish"/></ATLRtpc>
-    <ATLRtpc atl_name="sqc_ptag_skirmish_unjust"><SqcCtrl fmod_id="11921" fmod_name="#skirmish_unjust"/></ATLRtpc> <!-- might play silence -->
-    <ATLRtpc atl_name="sqc_ptag_skirmish_friendly"><SqcCtrl fmod_id="11922" fmod_name="#skirmish_friendly"/></ATLRtpc>
-    <ATLRtpc atl_name="sqc_ptag_skirmish_friendly_preempted"><SqcCtrl fmod_id="11923" fmod_name="#skirmish_friendly_preempted"/></ATLRtpc>
-
-    <ATLRtpc atl_name="sqc_ptag_fistfight_instead_of_skirmish"><SqcCtrl fmod_id="11924" fmod_name="#fistfight_instead_of_skirmish"/></ATLRtpc> <!-- adding state -->
-    <ATLRtpc atl_name="sqc_ptag_battle_instead_of_skirmish"><SqcCtrl fmod_id="11925" fmod_name="#battle_instead_of_skirmish"/></ATLRtpc> <!-- adding state -->
-    <ATLRtpc atl_name="sqc_ptag_skirmish_instead_of_battle"><SqcCtrl fmod_id="11930" fmod_name="#skirmish_instead_of_battle"/></ATLRtpc>
-
-    <ATLRtpc atl_name="sqc_ptag_battle_1"><SqcCtrl fmod_id="11931" fmod_name="#battle_1"/></ATLRtpc>
-    <ATLRtpc atl_name="sqc_ptag_battle_2"><SqcCtrl fmod_id="11932" fmod_name="#battle_2"/></ATLRtpc>
-    <ATLRtpc atl_name="sqc_ptag_battle_3"><SqcCtrl fmod_id="11933" fmod_name="#battle_3"/></ATLRtpc>
+<!--    <ATLRtpc atl_name="sqc_ptag_skirmish"><SqcCtrl fmod_id="11920" fmod_name="#skirmish"/></ATLRtpc>-->
+<!--    <ATLRtpc atl_name="sqc_ptag_skirmish_unjust"><SqcCtrl fmod_id="11921" fmod_name="#skirmish_unjust"/></ATLRtpc> &lt;!&ndash; might play silence &ndash;&gt;-->
+<!--    <ATLRtpc atl_name="sqc_ptag_skirmish_friendly"><SqcCtrl fmod_id="11922" fmod_name="#skirmish_friendly"/></ATLRtpc>-->
+<!--    <ATLRtpc atl_name="sqc_ptag_skirmish_friendly_preempted"><SqcCtrl fmod_id="11923" fmod_name="#skirmish_friendly_preempted"/></ATLRtpc>-->
+<!--    -->
+<!--    <ATLRtpc atl_name="sqc_ptag_fistfight_instead_of_skirmish"><SqcCtrl fmod_id="11924" fmod_name="#fistfight_instead_of_skirmish"/></ATLRtpc> &lt;!&ndash; adding state &ndash;&gt;-->
+<!--    <ATLRtpc atl_name="sqc_ptag_battle_instead_of_skirmish"><SqcCtrl fmod_id="11925" fmod_name="#battle_instead_of_skirmish"/></ATLRtpc> &lt;!&ndash; adding state &ndash;&gt;-->
+<!--    <ATLRtpc atl_name="sqc_ptag_skirmish_instead_of_battle"><SqcCtrl fmod_id="11930" fmod_name="#skirmish_instead_of_battle"/></ATLRtpc>-->
+<!--    -->
+<!--    <ATLRtpc atl_name="sqc_ptag_battle_1"><SqcCtrl fmod_id="11931" fmod_name="#battle_1"/></ATLRtpc>-->
+<!--    <ATLRtpc atl_name="sqc_ptag_battle_2"><SqcCtrl fmod_id="11932" fmod_name="#battle_2"/></ATLRtpc>-->
+<!--    <ATLRtpc atl_name="sqc_ptag_battle_3"><SqcCtrl fmod_id="11933" fmod_name="#battle_3"/></ATLRtpc>-->
 
     <ATLRtpc atl_name="sqc_ptag_racing"><SqcCtrl fmod_id="11926" fmod_name="#racing"/></ATLRtpc>
 
