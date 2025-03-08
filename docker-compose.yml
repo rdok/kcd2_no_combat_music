@@ -1,0 +1,8 @@
+services:
+  ci-cd:
+    build:
+      context: .
+      dockerfile: docker/nodejs.Dockerfile
+    volumes: [".:/app"]
+    environment: ["MODE=dev", "VERSION=main"]
+    command: node scripts/build.js --env=${MODE} --version=${VERSION}
