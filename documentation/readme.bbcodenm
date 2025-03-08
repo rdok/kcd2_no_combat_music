@@ -1,28 +1,13 @@
-[size=6]Helmet-Off Dialog (Beta)[/size]
+[size=6]No Battle Music[/size]
 
-[url=https://www.nexusmods.com/kingdomcomedeliverance/mods/1909][img]https://img.shields.io/badge/Mod-Helmet–Off%20Dialog%20[KCD1]-bf4848?style=flat-square–=nexusmods[/img][/url] [url=https://www.nexusmods.com/kingdomcomedeliverance2/mods/1023][img]https://img.shields.io/badge/Mod-Helmet–Off%20Dialog%20[KCD2]-bf4848?style=flat-square–=nexusmods[/img][/url] [url=https://github.com/rdok/kcd2_no_battle_music][img]https://img.shields.io/badge/Open-Source-2ea44f?style=flat-square&logo=github[/img][/url]
+[url=https://www.nexusmods.com/kingdomcomedeliverance2/mods/1216][img]https://img.shields.io/badge/Mod-No%20Combat%20Music-bf4848?style=flat-square–=nexusmods[/img][/url] [url=https://github.com/rdok/kcd2_no_battle_music][img]https://img.shields.io/badge/Open-Source-2ea44f?style=flat-square&logo=github[/img][/url]
 
-This mod automatically unequips your helmet, and coif when starting a conversation with an NPC, then re-equips them when the dialog ends.
+Disables battle (combat) music in Kingdom Come: Deliverance 2.
 
-[size=4]KCD 2 Showcase[/size]
-
-[url=https://www.nexusmods.com/kingdomcomedeliverance2/mods/831][img]https://github.com/rdok/kcd2_no_battle_music/blob/main/documentation/kcd2_showcase.gif?raw=true[/img][/url]
-
-[size=4]KCD 1 Showcase[/size]
-
-[url=https://www.nexusmods.com/kingdomcomedeliverance2/mods/831][img]https://github.com/rdok/kcd2_no_battle_music/blob/main/documentation/kcd1_showcase.gif?raw=true[/img][/url]
-
-Install this mod using Vortex from Nexus Mods.
+Install using Vortex.
 
 
-[size=4]Alternative version[/size]
+[size=4]Compatability[/size]
 
-The optional files section offers a version that unequips helmets in random dialogues rather than all of them. For instance, it might remove the helmet in one conversation but keep it on in the next. As a player, this reflects my reason for creating this mod—half because I expect I’ll grow tired of Henry’s face, and half because the helmets are really cool to look at, especially when switching between different ones.
+Incompatible with any other mod that modifies [b]Data/Libs/GameAudio/music_sqc.xml[/b].
 
-
-[size=4]Things to Know[/size]
-[list]
-[*] [b]Charisma Impact[/b]: Unequipping the helmet or coif during dialogue most probably lower charisma, as these items contribute to that stat. I don’t plan to address this, as high charisma is achievable without them, and it’s an acceptable trade-off for the mod’s functionality.
-[*] [b]Not All Helmets[/b]: I play slowly (still on the first KCD 2 map after a restart), so I haven’t tested every helmet yet. That said, this mod should work with at least 90% of helmets—like kettles, and bascinets. If you find one that doesn’t work, please let me know so I can address it.
-[*] [b]Non-Helmet Items[/b]: Gear like hats remains unaffected by this mod.
-[/list]
