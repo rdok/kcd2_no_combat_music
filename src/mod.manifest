@@ -3,7 +3,7 @@
     <info>
         <name>no_combat_music</name>
         <modid>no_combat_music</modid>
-        <description>Disable battle music.</description>
+        <description>Disables all combat music: skirmishes, fistfights, and battles.</description>
         <author>Rizarttt</author>
         <version>1.0.0</version>
         <created_on>08.03.2025</created_on>
